@@ -1,0 +1,36 @@
+.H2{
+    font-size: 170%;
+    color: #800000;
+    text-indent: 30px;
+}
+
+.H3{
+    font-size: 130%;
+    font-style: italic;
+    text-indent: 30px;
+}
+
+h1{
+    font-size: 150%;
+}
+
+h2{
+    font-size: 130%;
+    color: #800000;
+}
+
+h3{
+    font-size: 105%;
+}
+
+#foot{
+    margin: auto;
+    text-align: center;
+}
+
+.shadow{
+    text-shadow: 1.5px 1.5px #800000;
+}
+header a:hover{
+    font-style: italics;
+}
